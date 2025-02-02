@@ -1,7 +1,7 @@
 # Data Engineering Project Using PySpark
 
 ## Overview
-This project provides a sophisticated and methodologically rigorous approach to analysing school attendance data, leveraging the distributed computing capabilities of **Apache PySpark**. The dataset consolidates multiple structured sources, encompassing institutional metadata, student demographics, and attendance records. The primary objective is to engineer a scalable, high-performance data pipeline that transforms unprocessed raw data into analytically robust structures. This pipeline underpins a comprehensive, data-driven attendance reporting system, designed to facilitate enhanced decision-making and policy development by **data analysts** and education researchers.
+This project provides a sophisticated and methodologically rigorous approach to analysing school attendance data, leveraging the distributed computing capabilities of **PySpark**. The dataset consolidates multiple structured sources, encompassing institutional metadata, student demographics, and attendance records. The primary objective is to engineer a scalable, high-performance data pipeline that transforms unprocessed raw data into analytically robust structures. This pipeline underpins a comprehensive, data-driven attendance reporting system, designed to facilitate enhanced decision-making and policy development by **data analysts** and education researchers.
 
 ## Datasets Utilised
 The analytical framework of this study incorporates multiple heterogeneous datasets, each serving a distinct function:
