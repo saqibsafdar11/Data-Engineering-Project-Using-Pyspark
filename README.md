@@ -103,9 +103,8 @@ df_summary.write.mode("overwrite").parquet("data/fact_AttendanceSummary.parquet"
 ```
 
 ## **Author**
-**[Your Name]**  
-📧 Contact: [Your Email]  
-🌍 GitHub: [Your GitHub Profile]
+**Saqib Safdar**  
+🌍 GitHub: [[Your GitHub Profile]](https://github.com/saqibsafdar11)
 
 
 
