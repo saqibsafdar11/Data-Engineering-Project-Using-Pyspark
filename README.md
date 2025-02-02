@@ -93,18 +93,11 @@ df_summary.write.mode("overwrite").parquet("data/fact_AttendanceSummary.parquet"
 - **Pipeline Automation:** Integrate **Apache Airflow** for **automated scheduling and execution of data transformation workflows**.
 - **Anomaly Detection Systems:** Implement **machine learning-based anomaly detection** to identify and address irregularities in attendance patterns.
 
-## **Repository Structure**
-```
-📂 data-engineering-project
-│── 📂 data  # Raw and transformed datasets (CSV/Parquet)
-│── 📂 notebooks  # Jupyter Notebooks for exploratory analysis
-│── 📂 scripts  # PySpark scripts for pipeline execution
-│── README.md  # Detailed technical documentation
 ```
 
 ## **Author**
 **Saqib Safdar**  
-🌍 GitHub: [[Your GitHub Profile]](https://github.com/saqibsafdar11)
+🌍 GitHub: [[GitHub Profile]](https://github.com/saqibsafdar11)
 
 
 
